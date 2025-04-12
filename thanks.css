@@ -1,0 +1,30 @@
+* body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('pexels-1.jpg');
+    background-size: cover; /* This makes the image cover the entire page */
+    background-position: center; /* This centers the image */
+    height: 100vh; /* Makes sure the body takes up the full viewport height */
+    margin: 0;
+}
+/* .thank-you-message {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #4CAF50; 
+    color: white;
+    border-radius: 10px;
+} */
+ /* p{
+    width: 10px;
+ } */
+  /* .info{
+    background:transparent;
+    padding: 10px;  
+    border-radius: 5px;
+    transform: scale(0.80);
+    transform-origin: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1)
+  } */
